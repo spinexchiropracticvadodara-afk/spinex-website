@@ -1,0 +1,12 @@
+.git/
+.vscode/
+node_modules/
+.env
+.env.*
+.gitignore
+.assetsignore
+package.json
+package-lock.json
+wrangler.json
+wrangler.jsonc
+wrangler.toml
